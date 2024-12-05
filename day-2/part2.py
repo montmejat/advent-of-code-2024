@@ -25,5 +25,4 @@ with open("input.txt") as f:
                 safe_counter += 1
                 break
 
-
 print(safe_counter)
